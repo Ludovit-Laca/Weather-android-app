@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="predpoved_array">
+        <item>Clear</item>
+        <item>Clouds</item>
+        <item>Fog</item>
+        <item>Light clouds</item>
+        <item>Light rain</item>
+        <item>Rain</item>
+        <item>Snow</item>
+        <item>Storm</item>
+    </string-array>
+</resources>

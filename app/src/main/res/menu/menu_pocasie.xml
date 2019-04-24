@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pocasie_pridaj"
+        android:title="Pridaj počasie" />
+    <item
+        android:id="@+id/mesto_zmen"
+        android:title="Zmeň mesto" />
+    <item
+        android:id="@+id/pocasie_about"
+        android:title="O programe" />
+
+</menu>
