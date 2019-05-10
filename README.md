@@ -1,4 +1,4 @@
 # Weather-app
-Databázová aplikácia.
-Projekt v rámci predmetu Vývoj mobilných aplikácií.
+Mobilná databázová aplikácia počasie.<br />
+Projekt v rámci predmetu Vývoj mobilných aplikácií.<br />
 Made by Ľudovít Laca.
